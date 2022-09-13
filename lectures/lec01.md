@@ -1,4 +1,5 @@
 # lec-01 - 9/12/2022
+## intro to programming / algorithms
 
 ## 4 steps of programming:
 
